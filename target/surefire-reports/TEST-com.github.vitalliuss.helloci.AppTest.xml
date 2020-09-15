@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.github.vitalliuss.helloci.AppTest" time="0.096" tests="5" errors="0" skipped="1" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.github.vitalliuss.helloci.AppTest" time="0.072" tests="5" errors="0" skipped="1" failures="1">
   <properties>
     <property name="java.specification.version" value="14"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="BY"/>
     <property name="sun.boot.library.path" value="/Users/mirilip/instruments/jdk-14.0.2.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/mirilip/java_projects/Java/target/surefire/surefirebooter17170507075070440725.jar /Users/mirilip/java_projects/Java/target/surefire 2020-09-13T16-36-49_339-jvmRun1 surefire3860877156134530102tmp surefire_04523707953587441480tmp"/>
+    <property name="sun.java.command" value="/Users/mirilip/java_projects/Java/target/surefire/surefirebooter12369538489895267863.jar /Users/mirilip/java_projects/Java/target/surefire 2020-09-15T15-26-09_514-jvmRun1 surefire6949243282560668872tmp surefire_013721683255373129851tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/mirilip/java_projects/Java/target/test-classes:/Users/mirilip/java_projects/Java/target/classes:/Users/mirilip/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/mirilip/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/mirilip/java_projects/Java/target/surefire/surefirebooter17170507075070440725.jar"/>
+    <property name="surefire.real.class.path" value="/Users/mirilip/java_projects/Java/target/surefire/surefirebooter12369538489895267863.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="14.0.2+12-46"/>
@@ -53,7 +53,7 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="58.0"/>
   </properties>
-  <testcase name="testShouldBeFailed" classname="com.github.vitalliuss.helloci.AppTest" time="0.01">
+  <testcase name="testShouldBeFailed" classname="com.github.vitalliuss.helloci.AppTest" time="0.013">
     <failure type="java.lang.AssertionError">java.lang.AssertionError
 	at com.github.vitalliuss.helloci.AppTest.testShouldBeFailed(AppTest.java:21)
 </failure>
